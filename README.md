@@ -1,6 +1,7 @@
 # g4_hud - Enhanced FiveM HUD
 
 A lightweight, customizable HUD for FiveM servers with multi-framework support.
+
 Works with es_extended (with esx_status), qb-core, ox_core and in standalone.
 
 ## Features
