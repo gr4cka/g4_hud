@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.8vmin;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding: 2em;
+}
