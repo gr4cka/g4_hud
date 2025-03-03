@@ -94,10 +94,6 @@ pnpm install
 pnpm run build
 ```
 
-## License
-
-This resource is provided as-is. Feel free to modify and use as needed.
-
 ## Credits
 
 - Original author: gr4cka 
